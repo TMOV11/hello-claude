@@ -15,3 +15,7 @@ python hello.py
 ## Requirements
 
 Python 3.x
+
+## Contributing
+
+Feel free to open issues or pull requests!
